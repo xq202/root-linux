@@ -1,0 +1,51 @@
+
+
+[2024-12-05 01:32:02] Client version: 1733269577
+[2024-12-05 01:32:02] ThreadedReadFromDisk: loading appinfo cache from: /root/.steam/appcache/appinfo.vdf
+[2024-12-05 01:32:02] ThreadedReadFromDisk: failed to open file: /root/.steam/appcache/appinfo.vdf
+[2024-12-05 01:32:02] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2024-12-05 01:32:18] Client version: 1733269577
+[2024-12-05 01:32:18] ThreadedReadFromDisk: loading appinfo cache from: /root/.steam/appcache/appinfo.vdf
+[2024-12-05 01:32:18] ThreadedReadFromDisk: failed to open file: /root/.steam/appcache/appinfo.vdf
+[2024-12-05 01:32:18] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+[2024-12-05 01:32:22] RequestAppInfoUpdate: AppIDs 7
+[2024-12-05 01:32:22] Change number 0->26495045, apps: 0/0, packages: 0/0
+[2024-12-05 01:32:22] Requesting 1 apps, 1 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-12-05 01:32:23] Downloaded 1 apps via HTTP, 14 KB (3 KB compressed)
+[2024-12-05 01:32:23] Requesting 0 apps, 1 packages (full data, 1024 prev attempts, expected 17 KB)
+[2024-12-05 01:32:23] UpdatesJob: finished OK, apps updated 1 (14 KB), packages updated 1 (17 KB)
+[2024-12-05 01:32:23] Requesting 740 apps, 0 packages (meta data, 1024 prev attempts, expected 34 KB)
+[2024-12-05 01:32:24] Requested 86 app access tokens, 17 received, 69 denied
+[2024-12-05 01:32:24] Updated SHAs with 17 new access tokens
+[2024-12-05 01:32:25] Downloaded 214 apps via HTTP, 3732 KB (1100 KB compressed)
+[2024-12-05 01:32:25] Requesting 526 apps, 0 packages (full data, 1024 prev attempts, expected 2110 KB)
+[2024-12-05 01:32:26] UpdatesJob: finished OK, apps updated 740 (5817 KB), packages updated 0 (0 KB)
+[2024-12-05 01:32:27] RequestAppInfoUpdate: AppIDs 2394010
+[2024-12-05 01:32:27] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-12-05 01:32:27] Downloaded 1 apps via HTTP, 11 KB (3 KB compressed)
+[2024-12-05 01:32:27] UpdatesJob: finished OK, apps updated 1 (11 KB), packages updated 0 (0 KB)
+[2024-12-05 01:32:27] ThreadedWriteToDisk: writing appinfo cache to: /root/.steam/appcache/appinfo.vdf
+[2024-12-05 01:32:27] App cache write succeeded /root/.steam/appcache/appinfo.vdf (742 apps, 3064 KB) in 54 ms
+
+
+[2024-12-05 01:34:59] Client version: 1733269577
+[2024-12-05 01:34:59] ThreadedReadFromDisk: loading appinfo cache from: /root/.steam/appcache/appinfo.vdf
+[2024-12-05 01:34:59] ThreadedReadFromDisk: header version: 0x7564429
+[2024-12-05 01:34:59] ThreadedReadFromDisk: apps updated: 742
+[2024-12-05 01:34:59] CAppInfoCacheReadFromDiskThread took 49 milliseconds to initialize
+[2024-12-05 01:35:00] RequestAppInfoUpdate: AppIDs 7
+[2024-12-05 01:35:00] Packages changed: force all
+[2024-12-05 01:35:00] Change number 26495045->26495089, apps: 0/39, packages: 0/0
+[2024-12-05 01:35:00] Requesting 70 apps, 1 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-12-05 01:35:01] Requested 69 app access tokens, 0 received, 69 denied
+[2024-12-05 01:35:01] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-12-05 01:35:01] RequestAppInfoUpdate: AppIDs 2394010
+[2024-12-05 01:35:01] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-12-05 01:35:01] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-12-05 01:35:01] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-12-05 01:35:02] Downloaded 1 apps via HTTP, 8 KB (2 KB compressed)
+[2024-12-05 01:35:02] UpdatesJob: finished OK, apps updated 1 (8 KB), packages updated 0 (0 KB)
+[2024-12-05 01:35:17] ThreadedWriteToDisk: writing appinfo cache to: /root/.steam/appcache/appinfo.vdf
+[2024-12-05 01:35:17] App cache write succeeded /root/.steam/appcache/appinfo.vdf (743 apps, 3068 KB) in 400 ms

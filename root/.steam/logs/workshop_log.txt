@@ -1,0 +1,9 @@
+
+
+[2024-12-05 01:32:22] Client version: 1733269577
+[2024-12-05 01:32:22] Loading workshop items for 0 installed apps for user [a:1:3245120822]:
+
+
+[2024-12-05 01:35:00] Client version: 1733269577
+[2024-12-05 01:35:00] Loading workshop items for 0 installed apps for user [a:1:173901066]:
+[2024-12-05 01:35:01] [AppID 2394010] Loaded workshop items in "/home/steam/palworld/steamapps/workshop" (0 installed, 0 needed)

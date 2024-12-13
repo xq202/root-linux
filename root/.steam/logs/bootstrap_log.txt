@@ -1,0 +1,139 @@
+
+
+[2024-12-05 01:31:48] Startup - updater built Dec 13 2017 05:27:43
+[2024-12-05 01:31:48] Checking for update on startup
+[2024-12-05 01:31:48] Checking for available update...
+[2024-12-05 01:31:48] Download failed: http error 0 (client-download.steampowered.com/client/steam_cmd_linux)
+[2024-12-05 01:31:49] Package file steamcmd_public_all.zip.1881b33a7b35894ccfc6c9c2ecb96482dde8c056 missing or incorrect size
+[2024-12-05 01:31:49] Package file steamcmd_bins_linux.zip.vz.7a13d310e8076296d42e183a9ae8b5598a6a9b60_19251483 missing or incorrect size
+[2024-12-05 01:31:49] Package file steamcmd_siteserverui_linux.zip.vz.a3bd45990733cde0942394745300bb583dbc02f7_27669444 missing or incorrect size
+[2024-12-05 01:31:49] Package file steamcmd_linux.zip.vz.19ef11c768b268d3072deebae22341415f0cc28c_2377942 missing or incorrect size
+[2024-12-05 01:31:49] Downloading update (0 of 48195 KB)...
+[2024-12-05 01:31:49] Error: Download of package (steamcmd_linux) failed after 0 bytes (0).
+[2024-12-05 01:31:49] Error: Download of package (steamcmd_siteserverui_linux) failed after 0 bytes (0).
+[2024-12-05 01:31:49] Error: Download of package (steamcmd_bins_linux) failed after 0 bytes (0).
+[2024-12-05 01:31:49] Error: Download of package (steamcmd_public_all) failed after 0 bytes (0).
+[2024-12-05 01:31:49] Package file steamcmd_public_all.zip.1881b33a7b35894ccfc6c9c2ecb96482dde8c056 missing or incorrect size
+[2024-12-05 01:31:49] Package file steamcmd_bins_linux.zip.vz.7a13d310e8076296d42e183a9ae8b5598a6a9b60_19251483 missing or incorrect size
+[2024-12-05 01:31:49] Package file steamcmd_siteserverui_linux.zip.vz.a3bd45990733cde0942394745300bb583dbc02f7_27669444 missing or incorrect size
+[2024-12-05 01:31:49] Package file steamcmd_linux.zip.vz.19ef11c768b268d3072deebae22341415f0cc28c_2377942 missing or incorrect size
+[2024-12-05 01:31:49] Downloading update (3221 of 48195 KB)...
+[2024-12-05 01:31:49] Downloading update (7086 of 48195 KB)...
+[2024-12-05 01:31:50] Downloading update (9670 of 48195 KB)...
+[2024-12-05 01:31:50] Downloading update (12455 of 48195 KB)...
+[2024-12-05 01:31:50] Downloading update (14975 of 48195 KB)...
+[2024-12-05 01:31:50] Downloading update (17554 of 48195 KB)...
+[2024-12-05 01:31:51] Downloading update (20263 of 48195 KB)...
+[2024-12-05 01:31:51] Downloading update (22793 of 48195 KB)...
+[2024-12-05 01:31:51] Downloading update (25322 of 48195 KB)...
+[2024-12-05 01:31:51] Downloading update (27824 of 48195 KB)...
+[2024-12-05 01:31:52] Downloading update (30350 of 48195 KB)...
+[2024-12-05 01:31:52] Downloading update (33118 of 48195 KB)...
+[2024-12-05 01:31:52] Downloading update (35644 of 48195 KB)...
+[2024-12-05 01:31:52] Downloading update (38090 of 48195 KB)...
+[2024-12-05 01:31:53] Downloading update (40855 of 48195 KB)...
+[2024-12-05 01:31:53] Downloading update (42116 of 48195 KB)...
+[2024-12-05 01:31:53] Downloading update (43494 of 48195 KB)...
+[2024-12-05 01:31:54] Downloading update (44736 of 48195 KB)...
+[2024-12-05 01:31:54] Downloading update (45999 of 48195 KB)...
+[2024-12-05 01:31:54] Downloading update (47385 of 48195 KB)...
+[2024-12-05 01:31:55] Downloading update (48195 of 48195 KB)...
+[2024-12-05 01:31:55] Download Complete.
+[2024-12-05 01:31:55] uninstalled manifest found in /root/.steam/steamcmd/package/steam_cmd_linux (1).
+[2024-12-05 01:31:55] Found pending update
+[2024-12-05 01:31:55] Applying update...
+[2024-12-05 01:31:55] Extracting package...
+[2024-12-05 01:31:57] Installing update...
+[2024-12-05 01:31:57] Cleaning up...
+[2024-12-05 01:31:57] Update complete, launching...
+[2024-12-05 01:31:57] Shutdown
+
+
+[2024-12-05 01:31:57] Startup - updater built Dec  2 2024 21:18:14
+[2024-12-05 01:31:57] Startup - Steam Client launched with: '/root/.steam/steamcmd/linux32/steamcmd'
+[2024-12-05 01:31:57] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-12-05 01:31:57] Using the following download hosts for Public, Realm steamglobal
+[2024-12-05 01:31:57] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-12-05 01:31:57] Checking for update on startup
+[2024-12-05 01:31:57] Checking for available updates...
+[2024-12-05 01:31:57] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_linux
+[2024-12-05 01:31:58] Manifest download: send request
+[2024-12-05 01:31:58] Manifest download: waiting for download to finish
+[2024-12-05 01:31:58] Manifest download: finished
+[2024-12-05 01:31:58] Download skipped: /steam_cmd_linux version 1733269577, installed version 1733269577, existing pending version 0
+[2024-12-05 01:31:58] Nothing to do
+[2024-12-05 01:31:58] Verifying installation...
+[2024-12-05 01:31:58] Performing checksum verification of executable files
+[2024-12-05 01:31:58] Unable to read and verify install manifest /root/.steam/steamcmd/package/steam_cmd_linux.installed
+[2024-12-05 01:31:58] Verification complete
+[2024-12-05 01:31:58] Downloading update...
+[2024-12-05 01:31:58] Checking for available updates...
+[2024-12-05 01:31:58] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_linux
+[2024-12-05 01:31:58] Manifest download: send request
+[2024-12-05 01:31:58] Manifest download: waiting for download to finish
+[2024-12-05 01:31:58] Manifest download: finished
+[2024-12-05 01:31:58] Downloaded new manifest: /steam_cmd_linux version 1733269577, installed version 1733269577, existing pending version 0
+[2024-12-05 01:31:58] Download complete.
+[2024-12-05 01:31:58] uninstalled manifest found in /root/.steam/steamcmd/package/steam_cmd_linux (1).
+[2024-12-05 01:31:58] Extracting package...
+[2024-12-05 01:32:01] Installing update...
+[2024-12-05 01:32:01] Cleaning up...
+[2024-12-05 01:32:01] Update complete, launching Steamcmd...
+[2024-12-05 01:32:01] Shutdown
+
+
+[2024-12-05 01:32:01] Startup - updater built Dec  2 2024 21:18:14
+[2024-12-05 01:32:01] Startup - Steam Client launched with: '/root/.steam/steamcmd/linux32/steamcmd'
+[2024-12-05 01:32:01] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-12-05 01:32:01] Using the following download hosts for Public, Realm steamglobal
+[2024-12-05 01:32:01] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-12-05 01:32:01] Checking for update on startup
+[2024-12-05 01:32:01] Checking for available updates...
+[2024-12-05 01:32:01] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_linux
+[2024-12-05 01:32:01] Manifest download: send request
+[2024-12-05 01:32:01] Manifest download: waiting for download to finish
+[2024-12-05 01:32:02] Manifest download: finished
+[2024-12-05 01:32:02] Download skipped: /steam_cmd_linux version 1733269577, installed version 1733269577, existing pending version 0
+[2024-12-05 01:32:02] Nothing to do
+[2024-12-05 01:32:02] Verifying installation...
+[2024-12-05 01:32:02] Performing checksum verification of executable files
+[2024-12-05 01:32:02] Verification complete
+[2024-12-05 01:32:06] Shutdown
+
+
+[2024-12-05 01:32:17] Startup - updater built Dec  2 2024 21:18:14
+[2024-12-05 01:32:17] Startup - Steam Client launched with: '/root/.steam/steamcmd/linux32/steamcmd' '+force_install_dir' '/home/steam/palworld' '+login' 'anonymous' '+app_update' '2394010' 'validate' '+quit'
+[2024-12-05 01:32:17] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-12-05 01:32:17] Using the following download hosts for Public, Realm steamglobal
+[2024-12-05 01:32:17] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-12-05 01:32:17] Checking for update on startup
+[2024-12-05 01:32:17] Checking for available updates...
+[2024-12-05 01:32:17] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_linux
+[2024-12-05 01:32:17] Manifest download: send request
+[2024-12-05 01:32:17] Manifest download: waiting for download to finish
+[2024-12-05 01:32:18] Manifest download: finished
+[2024-12-05 01:32:18] Download skipped: /steam_cmd_linux version 1733269577, installed version 1733269577, existing pending version 0
+[2024-12-05 01:32:18] Nothing to do
+[2024-12-05 01:32:18] Verifying installation...
+[2024-12-05 01:32:18] Performing checksum verification of executable files
+[2024-12-05 01:32:18] Verification complete
+[2024-12-05 01:32:27] Shutdown
+
+
+[2024-12-05 01:34:58] Startup - updater built Dec  2 2024 21:18:14
+[2024-12-05 01:34:58] Startup - Steam Client launched with: '/root/.steam/steamcmd/linux32/steamcmd' '+@sSteamCmdForcePlatformBitness' '64' '+force_install_dir' '/home/steam/palworld' '+login' 'anonymous' '+app_update' '2394010' 'validate' '+quit'
+[2024-12-05 01:34:58] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-12-05 01:34:58] Using the following download hosts for Public, Realm steamglobal
+[2024-12-05 01:34:58] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-12-05 01:34:58] Checking for update on startup
+[2024-12-05 01:34:58] Checking for available updates...
+[2024-12-05 01:34:58] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_linux
+[2024-12-05 01:34:58] Manifest download: send request
+[2024-12-05 01:34:58] Manifest download: waiting for download to finish
+[2024-12-05 01:34:59] Manifest download: finished
+[2024-12-05 01:34:59] Download skipped: /steam_cmd_linux version 1733269577, installed version 1733269577, existing pending version 0
+[2024-12-05 01:34:59] Nothing to do
+[2024-12-05 01:34:59] Verifying installation...
+[2024-12-05 01:34:59] Performing checksum verification of executable files
+[2024-12-05 01:34:59] Verification complete
+[2024-12-05 01:36:22] Shutdown

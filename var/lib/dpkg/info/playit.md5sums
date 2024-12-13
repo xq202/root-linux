@@ -1,0 +1,4 @@
+e24035fe515a48d304bcf5f5c0eeeb2a  etc/logrotate.d/playit
+7d0157562885d639c71d4d619af85205  lib/systemd/system/playit.service
+28a811ece047a2e2f584b1d2328d9bf9  opt/playit/agent
+bbf35d285777dedbc630a2a504992151  opt/playit/playit

@@ -1,0 +1,34 @@
+
+
+[2024-12-05 01:32:02] Client version: 1733269577
+[2024-12-05 01:32:02] Failed to read store 'install' from '/root/.steam/config/config.vdf.tmp'
+[2024-12-05 01:32:02] Failed to read store 'install' from '/root/.steam/config/config.vdf.tmp'
+[2024-12-05 01:32:02] Failed to read store 'install' from '/root/.steam/config/config.vdf.tmp'
+[2024-12-05 01:32:03] Flushed store 'install' to '/root/.steam/config/config.vdf'
+[2024-12-05 01:32:05] Flushed store 'install' to '/root/.steam/config/config.vdf'
+
+
+[2024-12-05 01:32:18] Client version: 1733269577
+[2024-12-05 01:32:18] Loaded store 'install' from '/root/.steam/config/config.vdf' successfully
+[2024-12-05 01:32:18] Loaded store 'install' from '/root/.steam/config/config.vdf' successfully
+[2024-12-05 01:32:18] Loaded store 'install' from '/root/.steam/config/config.vdf' successfully
+[2024-12-05 01:32:18] Loaded store 'install' from '/root/.steam/config/config.vdf' successfully
+[2024-12-05 01:32:19] Loaded store 'install' from '/root/.steam/config/config.vdf' successfully
+[2024-12-05 01:32:22] Flushed store 'install' to '/root/.steam/config/config.vdf'
+[2024-12-05 01:32:22] Failed to read store 'userlocal' from '/root/.steam/userdata/anonymous/config/localconfig.vdf.tmp'
+[2024-12-05 01:32:22] Flushed store 'install' to '/root/.steam/config/config.vdf'
+[2024-12-05 01:32:23] Flushed store 'userlocal' to '/root/.steam/userdata/anonymous/config/localconfig.vdf'
+
+
+[2024-12-05 01:34:59] Client version: 1733269577
+[2024-12-05 01:34:59] Loaded store 'install' from '/root/.steam/config/config.vdf' successfully
+[2024-12-05 01:34:59] Loaded store 'install' from '/root/.steam/config/config.vdf' successfully
+[2024-12-05 01:34:59] Loaded store 'install' from '/root/.steam/config/config.vdf' successfully
+[2024-12-05 01:34:59] Loaded store 'install' from '/root/.steam/config/config.vdf' successfully
+[2024-12-05 01:35:00] Loaded store 'install' from '/root/.steam/config/config.vdf' successfully
+[2024-12-05 01:35:00] Loaded store 'userlocal' from '/root/.steam/userdata/anonymous/config/localconfig.vdf' successfully
+[2024-12-05 01:35:00] Flushed store 'install' to '/root/.steam/config/config.vdf'
+[2024-12-05 01:35:01] Flushed store 'userlocal' to '/root/.steam/userdata/anonymous/config/localconfig.vdf'
+[2024-12-05 01:35:02] Flushed store 'install' to '/root/.steam/config/config.vdf'
+[2024-12-05 01:35:33] Flushed store 'install' to '/root/.steam/config/config.vdf'
+[2024-12-05 01:36:03] Flushed store 'install' to '/root/.steam/config/config.vdf'

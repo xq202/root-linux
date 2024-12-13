@@ -1,0 +1,8 @@
+71556cfc2033e3375a82d5d19227ac2a  lib/systemd/system/zerotier-one.service
+1862280d9d2031b259cb1746d42b76ab  usr/sbin/zerotier-one
+77b694d96d4dd11f83e95eeed042b027  usr/share/doc/zerotier-one/changelog.gz
+f4a6ffbe72aad9cedd587bcb18904813  usr/share/doc/zerotier-one/copyright
+892880476993ec17ef7eb03bb74c9944  usr/share/man/man1/zerotier-cli.1.gz
+9929a90fdd6882c470a91f96370a44e4  usr/share/man/man1/zerotier-idtool.1.gz
+525cb47fd69b3891fc3572a7e986c20b  usr/share/man/man8/zerotier-one.8.gz
+c099c3ba3aad15ea30a8aa6ad8244d1b  var/lib/zerotier-one/zerotier-one.te

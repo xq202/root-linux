@@ -1,0 +1,12 @@
+/.
+/etc
+/etc/logrotate.d
+/etc/logrotate.d/playit
+/lib
+/lib/systemd
+/lib/systemd/system
+/lib/systemd/system/playit.service
+/opt
+/opt/playit
+/opt/playit/agent
+/opt/playit/playit

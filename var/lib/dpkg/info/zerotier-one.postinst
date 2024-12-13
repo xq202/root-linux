@@ -1,0 +1,41 @@
+#!/bin/sh -e
+
+case "$1" in
+  configure)
+      if ! id zerotier-one >>/dev/null 2>&1; then
+        useradd --system --user-group --home-dir /var/lib/zerotier-one --shell /usr/sbin/nologin --no-create-home zerotier-one
+      fi
+      ;;
+esac
+
+# Automatically added by dh_systemd_enable/12.10ubuntu1
+if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-deconfigure" ] || [ "$1" = "abort-remove" ] ; then
+	# This will only remove masks created by d-s-h on package removal.
+	deb-systemd-helper unmask 'zerotier-one.service' >/dev/null || true
+
+	# was-enabled defaults to true, so new installations run enable.
+	if deb-systemd-helper --quiet was-enabled 'zerotier-one.service'; then
+		# Enables the unit on first installation, creates new
+		# symlinks on upgrades if the unit file has changed.
+		deb-systemd-helper enable 'zerotier-one.service' >/dev/null || true
+	else
+		# Update the statefile to add new symlinks (if any), which need to be
+		# cleaned up on purge. Also remove old symlinks.
+		deb-systemd-helper update-state 'zerotier-one.service' >/dev/null || true
+	fi
+fi
+# End automatically added section
+# Automatically added by dh_installinit/12.10ubuntu1
+if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-deconfigure" ] || [ "$1" = "abort-remove" ] ; then
+	if [ -x "/etc/init.d/zerotier-one" ]; then
+		update-rc.d zerotier-one defaults >/dev/null
+		if [ -n "$2" ]; then
+			_dh_action=restart
+		else
+			_dh_action=start
+		fi
+		invoke-rc.d zerotier-one $_dh_action || exit 1
+	fi
+fi
+# End automatically added section
+

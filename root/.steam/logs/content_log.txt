@@ -1,0 +1,64 @@
+
+
+[2024-12-05 01:32:22] Client version: 1733269577
+[2024-12-05 01:32:22] Loaded 0 apps from install folder "/home/steam/palworld/steamapps\appmanifest_*.acf".
+[2024-12-05 01:32:22] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-12-05 01:32:27] Failed installing AppID 2394010 (Requires 64bit operating system)
+
+
+[2024-12-05 01:35:00] Client version: 1733269577
+[2024-12-05 01:35:00] Loaded 0 apps from install folder "/home/steam/palworld/steamapps\appmanifest_*.acf".
+[2024-12-05 01:35:00] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-12-05 01:35:01] AppID 2394010 state changed : Update Required,
+[2024-12-05 01:35:01] AppID 2394010 user config changed : added depots 1006,2394012
+[2024-12-05 01:35:01] AppID 2394010 scheduler update : Priority First, not played for 0 seconds, update disabled for 0 seconds
+[2024-12-05 01:35:01] AppID 2394010 state changed : Update Required,Update Queued,
+[2024-12-05 01:35:01] AppID 2394010 scheduler update : Priority First, not played for 0 seconds, update disabled for 0 seconds
+[2024-12-05 01:35:01] AppID 2394010 config changed : added depots 1006,2394012
+[2024-12-05 01:35:01] AppID 2394010 state changed : Update Required,Update Queued,Update Running,
+[2024-12-05 01:35:01] AppID 2394010 update changed : Running Update,
+[2024-12-05 01:35:01] AppID 2394010 update changed : Running Update,Reconfiguring,
+[2024-12-05 01:35:02] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 35 / Launcher 3)
+[2024-12-05 01:35:02] Moving to source priority class '3'
+[2024-12-05 01:35:02] Created download interface of type 'SteamCache' (7) to host cache1-sgp1.steamcontent.com (cache1-sgp1.steamcontent.com)
+[2024-12-05 01:35:02] Created download interface of type 'SteamCache' (7) to host cache2-sgp1.steamcontent.com (cache2-sgp1.steamcontent.com)
+[2024-12-05 01:35:02] Created download interface of type 'SteamCache' (7) to host cache8-sgp1.steamcontent.com (cache8-sgp1.steamcontent.com)
+[2024-12-05 01:35:02] HTTP/2 available
+[2024-12-05 01:35:02] Created ipv4-only http client
+[2024-12-05 01:35:02] HTTPS (SteamCache,213) - cache1-sgp1.steamcontent.com (103.10.124.84:443 / 103.10.124.84:443, host: cache1-sgp1.steamcontent.com): cache1-sgp1.steamcontent.com/depot/1006/manifest/7138471031118904166/5/16247912624964513752 - received 200 (OK) HTTP response
+[2024-12-05 01:35:03] HTTPS (SteamCache,214) - cache2-sgp1.steamcontent.com (103.10.124.85:443 / 103.10.124.85:443, host: cache2-sgp1.steamcontent.com): cache2-sgp1.steamcontent.com/depot/2394012/manifest/4799126612816973970/5/3519412688356493864 - received 200 (OK) HTTP response
+[2024-12-05 01:35:03] AppID 2394010 update changed : Running Update,
+[2024-12-05 01:35:03] AppID 2394010 update changed : Running Update,Validating,
+[2024-12-05 01:35:03] AppID 2394010 update changed : Running Update,
+[2024-12-05 01:35:03] AppID 2394010 update changed : Running Update,Preallocating,
+[2024-12-05 01:35:03] AppID 2394010 preallocated 0 files (0 MB) 
+[2024-12-05 01:35:03] AppID 2394010 update changed : Running Update,
+[2024-12-05 01:35:03] AppID 2394010 update started : download 0/1543055936, store 0/0, reuse 0/0, delta 0/0, stage 0/2050956361 
+[2024-12-05 01:35:03] AppID 2394010 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2024-12-05 01:35:03] AppID 2394010 update changed : Running Update,Downloading,Staging,
+[2024-12-05 01:35:03] Downloading 76 chunks from depot 1006
+[2024-12-05 01:35:05] Downloading 2019 chunks from depot 2394012
+[2024-12-05 01:35:15] Increasing target number of download connections to 4 (rate was 0.000, now 135.501)
+[2024-12-05 01:35:15] Created download interface of type 'SteamCache' (7) to host cache5-sgp1.steamcontent.com (cache5-sgp1.steamcontent.com)
+[2024-12-05 01:35:27] Increasing target number of download connections to 5 (rate was 135.501, now 176.188)
+[2024-12-05 01:35:27] Created download interface of type 'SteamCache' (7) to host cache6-sgp1.steamcontent.com (cache6-sgp1.steamcontent.com)
+[2024-12-05 01:36:09] AppID 2394010 update changed : Running Update,
+[2024-12-05 01:36:09] AppID 2394010 update changed : Running Update,Verifying,
+[2024-12-05 01:36:16] Current download rate: 0.000 Mbps
+[2024-12-05 01:36:21] Verified 1955 MB in '/root/.steam', clean bytes tally is now 1955 MB
+[2024-12-05 01:36:21] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-12-05 01:36:21] AppID 2394010 update changed : Running Update,
+[2024-12-05 01:36:21] AppID 2394010 update changed : Running Update,Committing,
+[2024-12-05 01:36:21] AppID 2394010 starting commit from "/home/steam/palworld/steamapps/downloading/2394010" to "/home/steam/palworld" : 36 updated, 0 moved, 0 deleted files
+[2024-12-05 01:36:21] AppID 2394010 state changed : Fully Installed,Update Queued,Update Running,
+[2024-12-05 01:36:21] AppID 2394010 finished update, 2 mounted depots (BuildID 16609772) : 1006 (7138471031118904166),2394012 (4799126612816973970),
+[2024-12-05 01:36:21] AppID 2394010 update changed : Running Update,
+[2024-12-05 01:36:21] AppID 2394010 update changed : None
+[2024-12-05 01:36:21] AppID 2394010 state changed : Fully Installed,Update Queued,
+[2024-12-05 01:36:21] AppID 2394010 state changed : Fully Installed,
+[2024-12-05 01:36:21] AppID 2394010 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2024-12-05 01:36:21] HTTPS (SteamCache,196) - cache6-sgp1.steamcontent.com (103.10.124.91:443 / 103.10.124.91:443, host: cache6-sgp1.steamcontent.com): Closing connection
+[2024-12-05 01:36:21] HTTPS (SteamCache,195) - cache5-sgp1.steamcontent.com (103.10.124.90:443 / 103.10.124.90:443, host: cache5-sgp1.steamcontent.com): Closing connection
+[2024-12-05 01:36:21] HTTPS (SteamCache,167) - cache8-sgp1.steamcontent.com (103.10.124.93:443 / 103.10.124.93:443, host: cache8-sgp1.steamcontent.com): Closing connection
+[2024-12-05 01:36:21] HTTPS (SteamCache,214) - cache2-sgp1.steamcontent.com (103.10.124.85:443 / 103.10.124.85:443, host: cache2-sgp1.steamcontent.com): Closing connection
+[2024-12-05 01:36:21] HTTPS (SteamCache,213) - cache1-sgp1.steamcontent.com (103.10.124.84:443 / 103.10.124.84:443, host: cache1-sgp1.steamcontent.com): Closing connection
